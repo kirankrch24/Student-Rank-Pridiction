@@ -4,7 +4,7 @@ It was a warm summer evening in Ahmedabad in 2015, and my brother and I were sit
 
 As I sat there, deep in thought, my brother broke the silence.
 
-"What do you think about which college you're going to apply to?" he asked, as he continued to work on his coding assignments in Java.
+"What do you think about which engineering college you're going to apply to?" he asked, as he continued to work on his coding assignments in Java.
 
 "I don't know," I replied. "I'll apply to whichever ones I'm eligible for."
 
