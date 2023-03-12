@@ -12,7 +12,7 @@ My brother seemed to sense my uncertainty and pressed further.
 
 "What do you think your merit number will be based on your Board exam and JEE Main scores?" he asked.
 
-"I don't know, brother," I replied again. "But I can calculate it."
+"I don't know, brother," I replied again. "But I think i can calculate it."
 
 My brother was intrigued by my response and asked me to develop an algorithm to calculate my merit number. I thought for a moment and then i tought i can calculate using a linear equation with one variable.
 
