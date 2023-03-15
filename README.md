@@ -20,4 +20,6 @@ My brother was intrigued by my response and asked me to develop an algorithm to 
 
 My brother was impressed by my idea and decided to write a Java program to predict my rank using the linear equation I had suggested. We worked together, and with his coding skills and my suggested algorithm, we were able to determine my predicted rank.
 
+After two weeks, the state government released my actual rank, which was only a few hundred places away from my predicted rank. My brother and I were elated, feeling a sense of satisfaction and pride in our accomplishment.
+
 Looking back on that summer evening, I feel a sense of nostalgia and gratitude for my brother.
